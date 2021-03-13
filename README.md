@@ -1,0 +1,2 @@
+# googlecolab
+googlecolabをとりあえず使ってみたのでリポジトリ作成
